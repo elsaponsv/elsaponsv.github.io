@@ -1,8 +1,8 @@
 header
   height: 90px
+  margin-top: 20px
   .logo
     float: left
-    margin: 30px
     font:
       size: 24px
       weight: 700
@@ -12,14 +12,14 @@ header
       &:hover
         color: $accent-color
   nav
+    margin-top: 8px
     float: right
-    margin: 30px 30px 0 0
     a
       display: inline-block
       margin-left: 20px
       color: rgba(0,0,0,1)
       font:
-        size: 24px
+        size: 16px
         weight: 700
       &:hover
         color: $accent-color
@@ -27,13 +27,11 @@ header
 @media (max-width: 768px)
   header
     .logo
-      margin: 10px 30px 0px 0px
+      float: right
     nav
-      margin: 0px
-      margin-top: 18px
       float: left
+      margin-top: 8px
       a
-        margin-left: 0px
-        margin-right: 20px
+        margin-left: 20px
         font:
-          size: 16px
+          size: 16px 

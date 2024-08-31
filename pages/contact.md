@@ -6,4 +6,6 @@ permalink: /contact
 
 # Contact
 
-You may contact me [through my email](mailto:l.nguyen.paul@gmail.com) or [tweet at me](https://twitter.com/intent/tweet?text=%40paululele) if you have any questions or would like to bring up any issues.
+You may contact me via [instagram](https://instagram.com/elsapons33) or [through my email](mailto:elsaponsv@gmail.com).
+
+Pueden contactarme mediante [instagram](https://instagram.com/elsapons33) o por [correo electrónico](mailto:elsaponsv@gmail.com).
