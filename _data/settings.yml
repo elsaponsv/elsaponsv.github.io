@@ -16,6 +16,7 @@ projects:
   - { name: "Menorca", url: "menorca" }
   - { name: "Dones", url: "dones" }
   - { name: "Sirenes", url: "sirenes" }
+  - { name: "Il·lustració", url: "ilustracio" }
   # - { name: "Project One", url: "proj-1" }
   # - { name: "Project Two", url: "proj-2" }
   # - { name: "Project Three", url: "proj-3" }

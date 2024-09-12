@@ -8,3 +8,5 @@ title: "Dones"
 {% include image.html url=false image="projects/dones/mujer_turbante.jpg" %}
 
 {% include image.html url=false image="projects/dones/mujer_lirios.jpg" %}
+
+{% include image.html url=false image="projects/dones/avia_magdalena.jpg" %}
